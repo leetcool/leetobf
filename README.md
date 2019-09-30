@@ -1,0 +1,2 @@
+# leetobf
+Shell Script Obfuscator
